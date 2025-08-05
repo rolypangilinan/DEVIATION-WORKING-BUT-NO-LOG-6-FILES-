@@ -3133,7 +3133,3 @@ deviation_Checker.start()   # carl
 
 root.protocol("WM_DELETE_WINDOW", stop_prog)
 root.mainloop()
-
-
-# END OF TKINTER
-# %%
